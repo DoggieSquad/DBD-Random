@@ -1,7 +1,7 @@
-# DBD-Randomizer
-A Dead By Daylight randomizer for the role of killer and survivor
+# DBD Randomizer
+A Dead By Daylight randomizer for both the role of killer and survivor
 
-Currently on DBD version 9.1.0
+Currently on DBD version 9.1.0 public test build
 
 This is a small somewhat messy project of mine written in C that runs in terminal.
 I wanted to create a text-based randomizer that was both small in size, fast, updated quickly, and be shared around easily with others who are fans of Dead By Daylight.
