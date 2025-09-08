@@ -1,13 +1,12 @@
 # DBD Randomizer
 A Dead By Daylight randomizer for both the role of killer and survivor
 
-Currently on DBD version 9.1.0 public test build
+Currently on DBD version 9.1.3.
 
-However the randomizer for DBD version 9.0.2 is available to download as well
-
-This is a small somewhat messy project of mine written in C that runs in terminal.
+This is a small somewhat messy project of mine written in C that runs in terminal. Hoping to remake it in Python or another language.
 I wanted to create a text-based randomizer that was both small in size, fast, updated quickly, and be shared around easily with others who are fans of Dead By Daylight.
 Please excuse the messy source code as I'm still learning C and hope to improve on it.
 If you want to take a shot at making improvements, feel free to!
 
 For any bugs or mispellings, please comment or message me on Discord at DoggieSquad.
+I DO NOT OWN DBD OR ANYTHING, EVERYTHING BELONGS TO BHVR.
