@@ -55,7 +55,7 @@ const char* rarityColor(const char* rarity) {
 }
 
 int main () {
-    // Meant for dbd version 9.2.0.
+    // Meant for dbd version 9.3.0.
     // really bad and unorganized int declaration
     int option, randKiller, randKillerPerks, randKillerAddon, randKillerOffering, killer, survivor, randSurvivor, randSurvivorPerks, randSurvivorItem, randSurvivorAddon, randSurvivorOffering, perk1, perk2, perk3, perk4, item, subItem, addon1, addon2;
     // having to give these values for the ID system 
@@ -917,4 +917,5 @@ int main () {
 }
 //DBD RANDOMIZER BY DOGGIESQUAD 11/28/2025
 //PLEASE LET ME KNOW IF THERE ARE ANY BUGS OR MISPELLINGS
+
 //EVERYTHING IS OWNED BY BHVR, I OWN NOTHING
